@@ -1,5 +1,5 @@
 print "Mary had a little lamb." # prints this string
-print "Its fleece was white as %s." % 'snow' # prints this string and variable
+print "Its fleece was white as %s." % 'snow' # prints this string and another
 print "And everywhere that Mary went." # prints another string 
 print "." * 10 # what'd that do? makes 10 periods appear
 
